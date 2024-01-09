@@ -1,0 +1,19 @@
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning_Affär.Form1.resources
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning_Affär.LogInScreen.resources
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning_Affär.RegisterScreen.resources
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning_Affär.StoreScreen.resources
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.csproj.GenerateResource.cache
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.AssemblyInfoInputs.cache
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.AssemblyInfo.cs
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.csproj.CoreCompileInputs.cache
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\bin\Debug\net8.0-windows\Inlämning Affär.exe
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\bin\Debug\net8.0-windows\Inlämning Affär.deps.json
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\bin\Debug\net8.0-windows\Inlämning Affär.runtimeconfig.json
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\bin\Debug\net8.0-windows\Inlämning Affär.dll
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\bin\Debug\net8.0-windows\Inlämning Affär.pdb
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.dll
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\refint\Inlämning Affär.dll
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.pdb
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\Inlämning Affär.genruntimeconfig.cache
+C:\Users\Joaki\source\repos\Inlämning Affär\Inlämning Affär\obj\Debug\net8.0-windows\ref\Inlämning Affär.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inlämning Affär/1.0.0": {
+        "runtime": {
+          "Inlämning Affär.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inlämning Affär/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
